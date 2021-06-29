@@ -1,7 +1,5 @@
-'use strict';
-
-module.exports = utils;
-
-function utils() {
-    // TODO
+module.exports = {
+    init() {
+        console.log('执行初始化')
+    }
 }
