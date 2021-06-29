@@ -16,6 +16,9 @@
   "publishConfig": {
     "registry": "https://registry.npm.taobao.org/"
   },
+  "bin": {
+    "watt": "/lib/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
