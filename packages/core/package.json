@@ -1,6 +1,6 @@
 {
   "name": "@watt-cli/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "core",
   "author": "helloforrestworld",
   "homepage": "",
@@ -23,6 +23,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@watt-cli/utils": "^0.0.3"
+    "@watt-cli/utils": "^0.0.4"
   }
 }
