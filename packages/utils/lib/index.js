@@ -1,5 +1,5 @@
 module.exports = {
     init() {
-        console.log('执行初始化')
+        console.log('执行初始化11')
     }
 }

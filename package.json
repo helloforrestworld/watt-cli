@@ -1,6 +1,6 @@
 {
   "name": "watt-cli",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "瓦特编辑器脚手架",
   "main": "index.js",
   "scripts": {
