@@ -23,6 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@watt-cli/utils": "^0.0.4"
+    "@watt-cli/utils": "file:../utils",
+    "yargs": "^17.0.1"
   }
 }
